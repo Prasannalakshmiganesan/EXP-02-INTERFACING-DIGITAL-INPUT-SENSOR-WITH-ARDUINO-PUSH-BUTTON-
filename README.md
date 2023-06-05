@@ -60,13 +60,6 @@ CIRCUIT DIAGRAM
 
 
 
-FIGURE -03
-### BEFORE STIMULATION :
-
-![OUTPUT](./OFF.png)
-
-
-
 
 ### PROGRAM :
 
@@ -93,7 +86,13 @@ void loop()
 
 ```
 
-### OUTPUT OF THE SIMULATION :
+
+FIGURE -03
+### BEFORE STIMULATION :
+
+![OUTPUT](./OFF.png)
+
+### AFTER SIMULATION :
 
 ![OUTPUT](./ON.png)
 
